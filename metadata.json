@@ -1,0 +1,6 @@
+{
+  "name": "Sushruta Medical Institute",
+  "description": "A premier healthcare web application featuring modern clinical care, medical specialists directory, hospital about page, patient registration, and appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
